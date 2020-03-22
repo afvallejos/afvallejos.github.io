@@ -9,4 +9,4 @@ Adams is an chilean engineering physicist and doctoral candidate in biophysics w
 
 ### Contact
 
-adams.vallejos@gu.se
+email: "adams.vallejos@gu.se"
