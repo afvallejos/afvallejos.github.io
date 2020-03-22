@@ -1,7 +1,7 @@
 # Welcome to my site
 
 
-My [profile](https://cmb.gu.se/english/about_us/staff?languageId=100001&userId=xvalad) at [Göteborgs Universitet](https://www.gu.se).
+My [profile](https://cmb.gu.se/english/about_us/staff?languageId=100001&userId=xvalad) from [Göteborgs Universitet](https://www.gu.se).
 
 ## Research
 
