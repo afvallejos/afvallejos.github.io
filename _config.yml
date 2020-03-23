@@ -22,8 +22,8 @@ footer-links:
  - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Adams_Vallejos'}
  - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=FA2XAbgAAAAJ'}
 
-markdown: kramdown
-theme: minima
+#markdown: kramdown
+theme: minimal
 #theme: jekyll-theme-minimal
-plugins:
-  -jekyll-feed
+#plugins:
+#  -jekyll-feed
