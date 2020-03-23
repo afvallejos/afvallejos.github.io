@@ -1,5 +1,5 @@
 title: Adams Vallejos
-email: adams.vallejos@gu.se
+#email: adams.vallejos@gu.se
 #description: >- 
 #  Adams is an chilean engineering physicist and doctoral candidate in biophysics 
 #  with experience in statistical physics of complex systems. His current work is 
@@ -8,7 +8,7 @@ email: adams.vallejos@gu.se
 #  His research interest is related to understanding the energy converting machinery of 
 # the cell through molecular dynamics simulations on the membrane protein cytochrome c 
 #  oxidase of the respiratory chain.
-me-img: "https://avatars1.githubusercontent.com/u/56148396?s=200"
+#me-img: "https://avatars1.githubusercontent.com/u/56148396?s=200"
 avatar: "https://avatars1.githubusercontent.com/u/56148396?s=200"
 #url: http://xvalad.github.io
 #baseurl: ""
