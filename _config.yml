@@ -1,29 +1,28 @@
-#url: "https://xvalad.github.io/xvalad.github.io"
 title: Adams Vallejos
 email: adams.vallejos@gu.se
-#description: >- 
-#  Adams is an chilean engineering physicist and doctoral candidate in biophysics 
-#  with experience in statistical physics of complex systems. His current work is 
-#  focused on analysis and image processing of time-resolved X-ray 
-#  diffraction/scattering data from synchrotron and XFEL experiments on biomolecules. 
-#  His research interest is related to understanding the energy converting machinery of 
-#  the cell through molecular dynamics simulations on the membrane protein cytochrome c 
-#  oxidase of the respiratory chain.
-#me-img: "https://avatars1.githubusercontent.com/u/56148396?s=200"
-#avatar: "https://avatars1.githubusercontent.com/u/56148396?s=200"
-#url: http://xvalad.github.io
-#baseurl: ""
+description: >- 
+  Adams is an chilean engineering physicist and doctoral candidate in biophysics 
+  with experience in statistical physics of complex systems. His current work is 
+  focused on analysis and image processing of time-resolved X-ray 
+  diffraction/scattering data from synchrotron and XFEL experiments on biomolecules. 
+  His research interest is related to understanding the energy converting machinery of 
+  the cell through molecular dynamics simulations on the membrane protein cytochrome c 
+  oxidase of the respiratory chain.
+me-img: "https://avatars1.githubusercontent.com/u/56148396?s=200"
+avatar: "https://avatars1.githubusercontent.com/u/56148396?s=200"
+url: http://xvalad.github.io
+baseurl: ""
 #twitter_username: xvalad
 #github_username: xvalad
 #facebook_username: adivallejos
 #instagram_username: adivallejos
-#footer-links: 
-#social:
- #- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Adams_Vallejos'}
- #- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=FA2XAbgAAAAJ'}
+footer-links: 
+social:
+ - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Adams_Vallejos'}
+ - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=FA2XAbgAAAAJ'}
 
-#markdown: kramdown
-theme: minimal
-#theme: jekyll-theme-minimal
-#plugins:
-#  -jekyll-feed
+markdown: kramdown
+#theme: minimal
+theme: jekyll-theme-minimal
+plugins:
+  -jekyll-feed
