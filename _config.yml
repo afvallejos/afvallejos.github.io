@@ -1,4 +1,24 @@
-url: "https://xvalad.github.io/xvalad.github.io"
-theme: jekyll-theme-minimal
+#url: "https://xvalad.github.io/xvalad.github.io"
 title: Adams Vallejos
-me-img: "https://github.com/xvalad.png?size=500"
+email: adams.vallejos@gu.se
+description: >- 
+Adams is an chilean engineering physicist and doctoral candidate in biophysics 
+with experience in statistical physics of complex systems. His current work is 
+focused on analysis and image processing of time-resolved X-ray 
+diffraction/scattering data from synchrotron and XFEL experiments on biomolecules. 
+His research interest is related to understanding the energy converting machinery of 
+the cell through molecular dynamics simulations on the membrane protein cytochrome c 
+oxidase of the respiratory chain.
+baseurl: ""
+url: "xvalad.github.io"
+twitter_username: xvalad
+github_username: xvalad
+facebook_username: adivallejos
+instagram_username: adivallejos
+
+markdown: kramdown
+theme: minima
+#theme: jekyll-theme-minimal
+plugins:
+  -jekyll-feed
+#me-img: "https://github.com/xvalad.png?size=500"
