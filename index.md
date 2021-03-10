@@ -18,4 +18,4 @@ Adams is a Chilean engineering physicist and doctoral candidate in biophysics wi
 
 ### Contact
 
-`adams.vallejos.donoso @ gu.se`
+`adams.vallejos.donoso AT gu.se`
