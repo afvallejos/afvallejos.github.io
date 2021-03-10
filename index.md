@@ -10,8 +10,11 @@ Adams is a Chilean engineering physicist and doctoral candidate in biophysics wi
 
 ## Papers
 
-[Nature ***589***, 310–314(2021)](https://www.nature.com/articles/s41586-020-3000-7)<br/>
 [Physica A ***515***, 819-829(2019)](https://doi.org/10.1016/j.physa.2018.09.060)
+
+### Collaborations
+
+[Nature ***589***, 310–314(2021)](https://www.nature.com/articles/s41586-020-3000-7)
 
 ### Contact
 
