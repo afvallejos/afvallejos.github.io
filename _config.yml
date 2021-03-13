@@ -22,7 +22,7 @@ footer-links:
  - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=FA2XAbgAAAAJ'}
 
 #markdown: kramdown
-#theme: minimal
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-chirpy
 #plugins:
 #  -jekyll-feed
