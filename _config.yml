@@ -23,6 +23,6 @@ footer-links:
 
 #markdown: kramdown
 #theme: jekyll-theme-minimal
-theme: "minimal-mistakes-jekyll"
+theme: jekyll-theme-minimal
 #plugins:
 #  -jekyll-feed
