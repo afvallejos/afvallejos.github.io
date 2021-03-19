@@ -1,19 +1,1 @@
 # Welcome to my site
-
-
-[University profile](https://cmb.gu.se/english/about_us/staff?languageId=100001&userId=xvalad) at [Göteborgs Universitet](https://www.gu.se)<br/>
-[Google Scholar Profile](https://scholar.google.cl/citations?hl=en&user=FA2XAbgAAAAJ)
-
-## Research
-
-Adams is a Chilean engineering physicist and doctoral candidate in biophysics with experience in statistical physics of complex systems. His current work is focused on analysis and image processing of time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments on biomolecules. His research interest is related to understanding the energy converting machinery of the cell through molecular dynamics simulations on the membrane protein cytochrome c oxidase of the respiratory chain.
-
-## Papers
-
-[Nature ***589***, 310–314(2021)](https://www.nature.com/articles/s41586-020-3000-7)<br/>
-[Physica A ***515***, 819-829(2019)](https://doi.org/10.1016/j.physa.2018.09.060)
-
-
-### Contact
-
-`adams.vallejos.donoso AT gu.se`
