@@ -1,4 +1,5 @@
 title: Adams Vallejos
+
 #email: adams.vallejos@gu.se
 #description: >- 
 #  Adams is an chilean engineering physicist and doctoral candidate in biophysics 
@@ -10,6 +11,8 @@ title: Adams Vallejos
 #  oxidase of the respiratory chain.
 #me-img: "https://avatars1.githubusercontent.com/u/56148396?s=200"
 avatar: "https://avatars1.githubusercontent.com/u/56148396?s=200"
+plugins:
+  - jekyll-remote-theme
 url: http://xvalad.github.io
 baseurl: ""
 #twitter_username: xvalad
@@ -17,7 +20,7 @@ baseurl: ""
 #facebook_username: adivallejos
 #instagram_username: adivallejos
 footer-links: 
-#social:
+social:
  - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Adams_Vallejos'}
  - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=FA2XAbgAAAAJ'}
 
