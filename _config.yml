@@ -21,8 +21,8 @@
 title: Adams Vallejos
 email: adams.vallejos.donoso AT gu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a doctoral student at the University of Gothenburg, I'm currently working on
-  analysis and image processing of time-resolved X-ray diffraction/scattering
+  I'm a doctoral student at the University of Gothenburg, Sweden. I'm currently 
+  working on analysis and image processing of time-resolved X-ray diffraction/scattering
   data from synchrotron and XFEL experiments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
