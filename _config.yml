@@ -23,6 +23,7 @@ footer-links:
 
 #markdown: kramdown
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: http[s]://github.<Enterprise>.com/benbalter/retlab
 #plugins:
 #  -jekyll-feed
