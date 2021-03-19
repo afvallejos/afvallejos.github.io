@@ -11,8 +11,8 @@ title: Adams Vallejos
 #  oxidase of the respiratory chain.
 #me-img: "https://avatars1.githubusercontent.com/u/56148396?s=200"
 avatar: "https://avatars1.githubusercontent.com/u/56148396?s=200"
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 url: http://xvalad.github.io
 baseurl: ""
 #twitter_username: xvalad
@@ -26,7 +26,7 @@ social:
 
 #markdown: kramdown
 #theme: jekyll-theme-minimal
-##theme: jekyll-theme-minimal
-remote_theme: http[s]://github.<Enterprise>.com/benbalter/retlab
+#theme: jekyll-theme-minimal
+#remote_theme: http[s]://github.<Enterprise>.com/benbalter/retlab
 #plugins:
 #  -jekyll-feed
