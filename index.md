@@ -8,7 +8,7 @@ layout: home
 
 Visit my [University profile](https://cmb.gu.se/english/about_us/staff?languageId=100001&userId=xvalad) at [Göteborgs Universitet](https://www.gu.se) or my [Google Scholar Profile](https://scholar.google.cl/citations?hl=en&user=FA2XAbgAAAAJ).
 
-[![image](https://avatars.githubusercontent.com/u/56148396?s=200)](https://github.com/xvalad)
+[![image](https://avatars.githubusercontent.com/u/56148396?s=400)](https://github.com/xvalad)
 
 <!-- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
