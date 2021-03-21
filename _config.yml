@@ -33,7 +33,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm a doctoral student at the University of Gothenburg, Sweden. I'm currently 
   working on analysis and image processing of time-resolved X-ray diffraction/scattering
   data from synchrotron and XFEL experiments.canonical: https://minimal-light.yyliu.net/
-# remote_theme: yaoyao-liu/minimal-light
+remote_theme: yaoyao-liu/minimal-light
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
