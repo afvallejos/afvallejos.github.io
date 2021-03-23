@@ -7,7 +7,7 @@ layout: homepage
 <!-- # Welcome to my site! -->
 
 ## About me
-I am a doctoral student in biophysics. I'm working on analysis and image processing of time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments on biomolecules. My research relates to understanding the energy converting machinery of the cell through molecular dynamics simulations on the membrane protein cytochrome c oxidase of the respiratory chain.
+I'm a doctoral student at the [University of Gothenburg](https://www.gu.se/en/about/find-staff/adamsvallejosdonoso), Sweden. I'm currently working on analysis and image processing of time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments.
 
 ## Publications
 
@@ -20,10 +20,6 @@ I am a doctoral student in biophysics. I'm working on analysis and image process
 
 <!-- Programming languages -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xvalad&theme=blue-green) -->
-
-
-
-
 <!-- > Visit my [University profile](https://cmb.gu.se/english/about_us/staff?languageId=100001&userId=xvalad) at [Göteborgs Universitet](https://www.gu.se) or my [Google Scholar Profile](https://scholar.google.cl/citations?hl=en&user=FA2XAbgAAAAJ). -->
 
 <!-- [![image](https://avatars.githubusercontent.com/u/56148396?s=400)](https://github.com/xvalad) -->
