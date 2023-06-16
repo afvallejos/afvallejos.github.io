@@ -1,54 +1,10 @@
-# run as:
-#       - bundle exec jekyll serve
-#       - jekyll serve --draft
-#########################################
-title: Adams Vallejos
-affiliation: Göteborgs Universitet
-email: adams.vallejos.donoso AT gu.se
-google_scholar: https://scholar.google.com//citations?user=FA2XAbgAAAAJ
-github_link: https://github.com/xvalad
-avatar: https://avatars.githubusercontent.com/u/56148396 # ./assets/img/avatar.png
-# google_analytics: UA-111540567-4
-# favicon: ./assets/img/favicon.png
-# favicon_dark: ./assets/img/favicon-dark.png
-description:
-  I'm a doctoral student at the University of Gothenburg, Sweden. I'm currently 
-  working on analysis and image processing of time-resolved X-ray diffraction/scattering
-  data from synchrotron and XFEL experiments.
-remote_theme: yaoyao-liu/minimal-light
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-# github_username:  xvalad
-
-# Build settings
-# theme: minima
-theme: minimal-light
-# plugins:
-  # - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-# defaults:
-#   -
-#     scope:
-#     path: "projects"
-#     values:
-#       layout: "post"
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
