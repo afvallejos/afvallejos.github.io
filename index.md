@@ -10,6 +10,9 @@ layout: homepage
 I'm a doctorand at the [University of Gothenburg](https://www.gu.se/en/about/find-staff/adamsvallejosdonoso) in Sweden. <br>
 My research is focused on developing pipelines of analysis for time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments. Check out my latest contributions below!
 
+## Posters
+[Tällberg 2023-06](https://drive.google.com/file/d/1Bv8Npr07jeJ_WTDrMiRroXMS1wrMWjAc/view?usp=drive_link)
+
 ## Publications
 
 - **Modeling difference x-ray scattering observations from an integral membrane protein within a detergent micelle** <br>
