@@ -6,6 +6,9 @@ layout: homepage
 ---
 <!-- # Welcome to my site! -->
 
+<img title="Prifile" alt="Alt text" src="https://avatars.githubusercontent.com/u/56148396">
+
+
 ## About me
 I'm a doctorand at the [University of Gothenburg](https://www.gu.se/en/about/find-staff/adamsvallejosdonoso) in Sweden. <br>
 My research is focused on developing pipelines of analysis for time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments. Check out my latest contributions below!
@@ -26,3 +29,7 @@ My research is focused on developing pipelines of analysis for time-resolved X-r
 
 - **A new κ-deformed parametric model for the size distribution of wealth** <br>
 [[Physica A ***515***, 819-829(2019)](https://doi.org/10.1016/j.physa.2018.09.060)]
+
+## External Links
+[Google Scholar](https://scholar.google.com//citations?user=FA2XAbgAAAAJ)
+[GitHub](https://github.com/xvalad)
