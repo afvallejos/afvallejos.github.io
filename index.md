@@ -7,7 +7,8 @@ layout: homepage
 <!-- # Welcome to my site! -->
 
 ## About me
-I'm a doctoral student at the [University of Gothenburg](https://www.gu.se/en/about/find-staff/adamsvallejosdonoso), Sweden. I'm currently working on analysis and image processing of time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments.
+I'm a doctorand at the [University of Gothenburg](https://www.gu.se/en/about/find-staff/adamsvallejosdonoso) in Sweden. <br>
+My research is focused on developing pipelines of analysis for time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments. Check out my latest contributions below!
 
 ## Publications
 
