@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: /home/adams/xvalad/xvalad.github.io
+# source: /home/adams/xvalad/xvalad.github.io
 incremental: false
 highlighter: rouge
 gist:
@@ -9,7 +9,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
   
-remote_theme: yaoyao-liu/minimal-light
 title: Adams Vallejos
 affiliation: Göteborgs Universitet
 email: adams.vallejos.donoso AT gu.se
@@ -25,6 +24,7 @@ description:
   data from synchrotron and XFEL experiments.
 # remote_theme: yaoyao-liu/minimal-light
 # remote_theme: pages-themes/inimal@v0.2.0
+remote_theme: yaoyao-liu/minimal-light
 plugins:
 - jekyll-remote-theme
 baseurl: "" # the subpath of your site, e.g. /blog
