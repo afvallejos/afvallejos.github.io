@@ -8,24 +8,4 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-
-title: Adams Vallejos
-affiliation: Göteborgs Universitet
-email: adams.vallejos.donoso AT gu.se
-google_scholar: https://scholar.google.com//citations?user=FA2XAbgAAAAJ
-github_link: https://github.com/xvalad
-avatar: https://avatars.githubusercontent.com/u/56148396 
-
-remote_theme: pages-themes/inimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-# github_username:  xvalad
-
-# Build settings
-# theme: minima
-theme: minimal-light
-# plugins:
-  # - jekyll-feed
+  
