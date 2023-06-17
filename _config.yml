@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: /home/adams/xvalad/xvalad.github.io
+# source: /home/adams/xvalad/xvalad.github.io
 incremental: false
 highlighter: rouge
 gist:
