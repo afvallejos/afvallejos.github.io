@@ -1,5 +1,5 @@
 lsi: false
-safe: true
+safe: false
 # source: /home/adams/xvalad/xvalad.github.io
 incremental: false
 highlighter: rouge
