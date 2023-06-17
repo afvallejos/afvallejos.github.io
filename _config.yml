@@ -10,3 +10,28 @@ kramdown:
   syntax_highlighter: rouge
   
 remote_theme: yaoyao-liu/minimal-light
+title: Adams Vallejos
+affiliation: Göteborgs Universitet
+email: adams.vallejos.donoso AT gu.se
+google_scholar: https://scholar.google.com//citations?user=FA2XAbgAAAAJ
+github_link: https://github.com/xvalad
+avatar: https://avatars.githubusercontent.com/u/56148396 # ./assets/img/avatar.png
+# google_analytics: UA-111540567-4
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
+description:
+  I'm a doctoral student at the University of Gothenburg, Sweden. I'm currently 
+  working on analysis and image processing of time-resolved X-ray diffraction/scattering
+  data from synchrotron and XFEL experiments.
+# remote_theme: yaoyao-liu/minimal-light
+# remote_theme: pages-themes/inimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+# github_username:  xvalad
+
+# Build settings
+# theme: minima
+theme: minimal-light
