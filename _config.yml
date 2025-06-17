@@ -1,6 +1,5 @@
 lsi: false
 safe: true
-# source: /home/adams/afvallejos/afvallejos.github.io
 incremental: false
 highlighter: rouge
 gist:
@@ -19,8 +18,8 @@ avatar: https://avatars.githubusercontent.com/u/56148396 # ./assets/img/avatar.p
 # favicon: ./assets/img/favicon.png
 # favicon_dark: ./assets/img/favicon-dark.png
 description:
-  I'm a doctoral student at the University of Gothenburg, Sweden. I'm currently 
-  working on analysis and image processing of time-resolved X-ray diffraction/scattering
+  I'm a postdoctoral researcher at the University of Gothenburg, Sweden. I develop 
+  analysis tools for analysing time-resolved X-ray diffraction/scattering
   data from synchrotron and XFEL experiments.
 # remote_theme: yaoyao-liu/minimal-light
 # remote_theme: pages-themes/inimal@v0.2.0
