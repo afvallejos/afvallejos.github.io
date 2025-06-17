@@ -10,8 +10,8 @@ layout: homepage
 
 
 ## About me
-I'm a doctorand at the [University of Gothenburg](https://www.gu.se/en/about/find-staff/adamsvallejosdonoso) in Sweden. <br>
-My research is focused on developing pipelines of analysis for time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments. Check out my latest contributions below!
+I'm a postdoctoral researcher at the [University of Gothenburg](https://www.gu.se/en/about/find-staff/adamsvallejosdonoso) in Sweden. <br>
+I develop pipelines for analysing time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments. Check out my latest contributions below!
 
 ## Tällberg 2023
 [Read Poster here](https://drive.google.com/file/d/1Bv8Npr07jeJ_WTDrMiRroXMS1wrMWjAc/view?usp=drive_link)
@@ -32,4 +32,4 @@ My research is focused on developing pipelines of analysis for time-resolved X-r
 
 ## External Links
 [Google Scholar](https://scholar.google.com//citations?user=FA2XAbgAAAAJ)
-[GitHub](https://github.com/xvalad)
+[GitHub](https://github.com/afvallejos)
