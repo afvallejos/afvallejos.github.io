@@ -17,10 +17,10 @@ I develop pipelines for analysing time-resolved X-ray diffraction/scattering dat
 [Read Poster here](https://drive.google.com/file/d/1Bv8Npr07jeJ_WTDrMiRroXMS1wrMWjAc/view?usp=drive_link)
 
 ## Publications
-- **Appraising protein conformational changes by resampling time-resolved serial x-ray crystallography data**
+- **Appraising protein conformational changes by resampling time-resolved serial x-ray crystallography data** <br>
 [[Structural dynamics ***11*** (4), 044302 (2024)](https://doi.org/10.1063/4.0000258)]
 
-- **TR-SX to track the dynamics of CO in the active site of C*c*O**
+- **TR-SX to track the dynamics of CO in the active site of C*c*O** <br>
 [[Science advances ***9*** (49), , eadh4179 (2023)](https://doi.org/10.1126/sciadv.adh4179)]
 
 - **Modeling difference x-ray scattering observations from an integral membrane protein within a detergent micelle** <br>
