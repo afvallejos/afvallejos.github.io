@@ -6,22 +6,25 @@ layout: homepage
 ---
 <!-- # Welcome to my site! -->
 
-<img title="Prifile" alt="Alt text" src="https://avatars.githubusercontent.com/u/56148396">
+<!-- <img title="Prifile" alt="Alt text" src="https://avatars.githubusercontent.com/u/56148396"> -->
 
 
 ## About me
 I'm a postdoctoral researcher at the [University of Gothenburg](https://www.gu.se/en/about/find-staff/adamsvallejosdonoso) in Sweden. <br>
-I develop pipelines for analysing time-resolved X-ray diffraction/scattering data from synchrotron and XFEL experiments. Check out my latest contributions below!
-
-## Tällberg 2023
-[Read Poster here](https://drive.google.com/file/d/1Bv8Npr07jeJ_WTDrMiRroXMS1wrMWjAc/view?usp=drive_link)
+I develop computational methods and scientific software for understanding complex biological systems, with applications ranging from protein structural dynamics to neural information processing.
 
 ## Publications
+- **Structural mechanism of proton pumping by *ba*3-type cytochrome *c* oxidase** <br>
+[[PREPRINT available at Research Square (2026)](https://doi.org/10.21203/rs.3.rs-9295287/v1)]
+
+- **A user-friendly goniometer-compatible fixed-target platform for macromolecular crystallography at synchrotrons** <br>
+[[Journal of Appllied Crystallography ***59***, 303-315 (2026)](https://doi.org/10.1107/s1600576725011513)]
+
 - **Appraising protein conformational changes by resampling time-resolved serial x-ray crystallography data** <br>
 [[Structural dynamics ***11*** (4), 044302 (2024)](https://doi.org/10.1063/4.0000258)]
 
 - **TR-SX to track the dynamics of CO in the active site of C*c*O** <br>
-[[Science advances ***9*** (49), , eadh4179 (2023)](https://doi.org/10.1126/sciadv.adh4179)]
+[[Science advances ***9*** (49), eadh4179 (2023)](https://doi.org/10.1126/sciadv.adh4179)]
 
 - **Modeling difference x-ray scattering observations from an integral membrane protein within a detergent micelle** <br>
 [[Structural Dynamics ***9***(5), 054102 (2022)](https://doi.org/10.1063/4.0000157)]
@@ -35,6 +38,8 @@ I develop pipelines for analysing time-resolved X-ray diffraction/scattering dat
 - **A new κ-deformed parametric model for the size distribution of wealth** <br>
 [[Physica A ***515***, 819 (2019)](https://doi.org/10.1016/j.physa.2018.09.060)]
 
+<!-- 
 ## External Links
 [Google Scholar](https://scholar.google.com//citations?user=FA2XAbgAAAAJ)
 [GitHub](https://github.com/afvallejos)
+-->
